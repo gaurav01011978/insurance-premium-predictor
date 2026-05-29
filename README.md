@@ -6,7 +6,7 @@ Regression and deployed with Streamlit.
 
 ## Live Demo
 
-[Click here to try the app](YOUR_STREAMLIT_URL_HERE)
+[Click here to try the app](https://gaurav-ml2-project.streamlit.app/)
 
 ## Problem Statement
 
